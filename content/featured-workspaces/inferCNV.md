@@ -8,4 +8,4 @@ linkTo: "https://app.terra.bio/#workspaces/help-gatk/InferCNV_SCP_scRNA-seq"
 The [inferCNV](https://github.com/broadinstitute/inferCNV) workflow compares RNA from tumor samples with corresponding “normal” samples to identify evidence for copy number variations in tumors.
 
 [[button]]
-| [Launch Workflow](https://app.terra.bio/#workspaces/help-gatk/InferCNV_SCP_scRNA-seq)
+| [Launch Workspace](https://app.terra.bio/#workspaces/help-gatk/InferCNV_SCP_scRNA-seq)
