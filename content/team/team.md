@@ -19,7 +19,7 @@ Nekrutenko
 #### [Oregon Health & Sciences University](https://goeckslab.org)
 Goecks and Ellrott
 
-#### [Roswell Park Cancer Institute](https://bioconductor.org/about/core-team)
+#### [Roswell Park Comprehensive Cancer Center](https://bioconductor.org/about/core-team)
 Morgan
 
 #### [Harvard University](http://vjcitn.github.io)
