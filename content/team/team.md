@@ -34,7 +34,7 @@ Philippakis, MacArthur
 #### [University of Chicago](http://rgrossman.com)
 Grossman
 
-#### [University of California, Santa Cruz](https://cgl.genomics.ucsc.edu/team)
+#### [University of California, Santa Cruz](https://cgp.genomics.ucsc.edu/team/)
 Paten
 
 #### [Vanderbilt University](https://www.vumc.org/dbmi/person/robert-carroll-phd)
