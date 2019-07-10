@@ -10,35 +10,35 @@ author: "AnVIL"
 [[heroSmall]]
 | The AnVIL is a large consortium project to which many groups and individuals are contributing.
 
-#### [Johns Hopkins University](https://www.taylorlab.org)
-Taylor, Afgan, Leek, Schatz, Hansen
+#### Johns Hopkins University
+[Taylor](https://www.taylorlab.org), Afgan, Leek, Schatz, Hansen
 
-#### [Penn State University](https://nekrut.github.io/lab_site)
-Nekrutenko
+#### Penn State University
+[Nekrutenko](https://nekrut.github.io/lab_site)
 
-#### [Oregon Health & Sciences University](https://goeckslab.org)
-Goecks and Ellrott
+#### Oregon Health & Sciences University
+[Goecks](https://goeckslab.org) and Ellrott
 
-#### [Roswell Park Cancer Institute](https://bioconductor.org/about/core-team)
-Morgan
+#### Roswell Park Comprehensive Cancer Center
+[Morgan](https://bioconductor.org/about/core-team)
 
-#### [Harvard University](http://vjcitn.github.io)
-Carey
+#### Harvard University
+[Carey](http://vjcitn.github.io)
 
-#### [City University of New York](https://waldronlab.io)
-Waldron
+#### City University of New York
+[Waldron](https://waldronlab.io)
 
-#### [Broad Institute](https://www.broadinstitute.org/bios/anthony-philippakis-0)
-Philippakis, MacArthur
+#### Broad Institute
+[Philippakis](https://www.broadinstitute.org/bios/anthony-philippakis-0), MacArthur
 
-#### [University of Chicago](http://rgrossman.com)
-Grossman
+#### University of Chicago
+[Grossman](http://rgrossman.com)
 
-#### [University of California, Santa Cruz](https://cgp.genomics.ucsc.edu/team/)
-Paten
+#### University of California, Santa Cruz
+[Paten](https://cgl.genomics.ucsc.edu/team)
 
-#### [Vanderbilt University](https://www.vumc.org/dbmi/person/robert-carroll-phd)
-Carroll
+#### Vanderbilt University
+[Carroll](https://www.vumc.org/dbmi/person/robert-carroll-phd)
 
-#### [Washington University](https://www.genome.wustl.edu/research/labs/hall-lab)
-Hall
+#### Washington University
+[Hall](https://www.genome.wustl.edu/research/labs/hall-lab)
