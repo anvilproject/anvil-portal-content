@@ -1,6 +1,5 @@
 ---
 path: "/featured-workspaces/gatk-germline"
-linkTo: "https://anvil.terra.bio/#workspaces/help-gatk/Germline-SNPs-Indels-GATK4-hg38"
 ---
 
 ### GATK Best Practices for Germline SNPs & Indels

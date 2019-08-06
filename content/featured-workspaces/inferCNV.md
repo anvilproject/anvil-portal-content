@@ -1,6 +1,5 @@
 ---
 path: "/featured-workspaces/inferCNV"
-linkTo: "https://anvil.terra.bio/#workspaces/help-gatk/InferCNV_SCP_scRNA-seq"
 ---
 
 ### inferCNV tumor single-cell RNA-seq analysis pipeline
