@@ -1,6 +1,5 @@
 ---
 path: "/featured-workspaces/optimus-pipeline"
-linkTo: "https://anvil.terra.bio/#workspaces/help-gatk/HCA_Optimus_Pipeline"
 ---
 
 ### Optimus Pipeline for Analysis of 3’ Single-Cell Transcriptomic Data

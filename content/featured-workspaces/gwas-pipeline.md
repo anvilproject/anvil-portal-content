@@ -1,6 +1,5 @@
 ---
 path: "/featured-workspaces/gwas-pipeline"
-linkTo: "https://anvil.terra.bio/#workspaces/help-gatk/Hail-Notebook-Tutorials"
 ---
 
 ### GWAS Pipeline Using Hail

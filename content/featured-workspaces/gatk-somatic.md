@@ -1,6 +1,5 @@
 ---
 path: "/featured-workspaces/gatk-somatic"
-linkTo: "https://anvil.terra.bio/#workspaces/help-gatk/Somatic-CNVs-GATK4"
 ---
 
 ### GATK Best Practices for Somatic CNV Discovery
